@@ -12,5 +12,6 @@ public class FighterService {
 
 
         //return secondFighter.getHealth() <= firstFighter.getDamagePerHit() * hits;
+        //fixme delete comment
     }
 }
