@@ -6,7 +6,6 @@ public class MatrixDiagonal {
         for (int i = 0; i < matrix.length; i++) {
             diagonal[i] = matrix[i][i];
 
-
         }
 
         return diagonal;
